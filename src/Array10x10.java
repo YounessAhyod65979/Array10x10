@@ -18,10 +18,7 @@ public class Array10x10 {
 
                     sum += matrix[i][j];
                 }
-                else {
 
-                    matrix[i][j] = 0;
-                }
             }
         }
 
